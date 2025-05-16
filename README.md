@@ -73,6 +73,4 @@ Você pode modificar os seguintes parâmetros no código para alterar a simulaç
 
 Este projeto é fornecido sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir conforme necessário.
 
-## Contato
 
-Para dúvidas ou sugestões, entre em contato com [autor@exemplo.com].
